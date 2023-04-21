@@ -3,3 +3,4 @@ Hello world
 good bye
 hi
 line 1
+line from user 2
