@@ -1,3 +1,4 @@
 Good buy!
 line 2
 another line 2
+line from user 2 - lesson about rebase
